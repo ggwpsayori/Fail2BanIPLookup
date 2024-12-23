@@ -1,0 +1,7 @@
+{
+    "output_file": "fail2ban_findip_report.xlsx",
+    "api_token": "ЗАМЕНИТЬ",
+    "telegram_token": "ЗАМЕНИТЬ",
+    "chat_id": "ЗАМЕНИТЬ",
+    "max_concurrent_requests": 50
+}
